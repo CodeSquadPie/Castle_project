@@ -1,2 +1,3 @@
 ﻿  main.cpp
-  Game.vcxproj -> E:\LocalGet\src\Debug\Game.exe
+  LINK : не найден или не выполнена сборка D:\codin\gameDev\src\Debug\Game.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Game.vcxproj -> D:\codin\gameDev\src\Debug\Game.exe
